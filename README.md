@@ -1,6 +1,6 @@
 # Chrono: Minimalist Scheduling App
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/creativesoftwaregun/scheduling-using-javascript)
 
 Chrono is a visually stunning, minimalist web application for scheduling events and managing calendars. Built on Cloudflare's edge network, it offers a lightning-fast, intuitive, and beautiful user experience. The core of the application is a flexible calendar that supports month, week, and day views. Users can effortlessly create, edit, and delete events through a clean, modal-based interface. Events can be color-coded and assigned to different calendars (e.g., Work, Personal). The design prioritizes clarity, generous white space, and subtle, delightful micro-interactions, making schedule management a serene and efficient task.
 
@@ -86,7 +86,7 @@ Deploying the application to Cloudflare is a single command. This will build the
 
 2.  **Deploy with one click:**
 
-    [cloudflarebutton]
+    [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/creativesoftwaregun/scheduling-using-javascript)
 
 After deployment, Wrangler will provide you with the URL to your live application.
 
